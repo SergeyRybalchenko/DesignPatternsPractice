@@ -1,0 +1,15 @@
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\bin\Debug\net6.0\BurgerBuilderPattern.exe
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\bin\Debug\net6.0\BurgerBuilderPattern.deps.json
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\bin\Debug\net6.0\BurgerBuilderPattern.runtimeconfig.json
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\bin\Debug\net6.0\BurgerBuilderPattern.dll
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\bin\Debug\net6.0\BurgerBuilderPattern.pdb
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\obj\Debug\net6.0\BurgerBuilderPattern.csproj.AssemblyReference.cache
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\obj\Debug\net6.0\BurgerBuilderPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\obj\Debug\net6.0\BurgerBuilderPattern.AssemblyInfoInputs.cache
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\obj\Debug\net6.0\BurgerBuilderPattern.AssemblyInfo.cs
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\obj\Debug\net6.0\BurgerBuilderPattern.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\obj\Debug\net6.0\BurgerBuilderPattern.dll
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\obj\Debug\net6.0\refint\BurgerBuilderPattern.dll
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\obj\Debug\net6.0\BurgerBuilderPattern.pdb
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\obj\Debug\net6.0\BurgerBuilderPattern.genruntimeconfig.cache
+D:\VisualStudio Projects\BurgerBuilderPattern\BurgerBuilderPattern\obj\Debug\net6.0\ref\BurgerBuilderPattern.dll
