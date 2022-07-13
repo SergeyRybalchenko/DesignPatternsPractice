@@ -1,0 +1,15 @@
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\bin\Debug\net6.0\CookerProxyPattern.exe
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\bin\Debug\net6.0\CookerProxyPattern.deps.json
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\bin\Debug\net6.0\CookerProxyPattern.runtimeconfig.json
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\bin\Debug\net6.0\CookerProxyPattern.dll
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\bin\Debug\net6.0\CookerProxyPattern.pdb
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\obj\Debug\net6.0\CookerProxyPattern.csproj.AssemblyReference.cache
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\obj\Debug\net6.0\CookerProxyPattern.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\obj\Debug\net6.0\CookerProxyPattern.AssemblyInfoInputs.cache
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\obj\Debug\net6.0\CookerProxyPattern.AssemblyInfo.cs
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\obj\Debug\net6.0\CookerProxyPattern.csproj.CoreCompileInputs.cache
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\obj\Debug\net6.0\CookerProxyPattern.dll
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\obj\Debug\net6.0\refint\CookerProxyPattern.dll
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\obj\Debug\net6.0\CookerProxyPattern.pdb
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\obj\Debug\net6.0\CookerProxyPattern.genruntimeconfig.cache
+D:\VisualStudio Projects\CookerProxyPattern\CookerProxyPattern\obj\Debug\net6.0\ref\CookerProxyPattern.dll
